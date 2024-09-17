@@ -9,6 +9,6 @@
     "test:dev": "cypress open"
   },
   "devDependencies": {
-    "cypress": "^12.14.0"
+    "cypress": "^13.14.2"
   }
 }
